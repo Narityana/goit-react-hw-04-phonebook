@@ -1,0 +1,9 @@
+.filter__label {
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+.filter__input{
+    margin-top: 10px;
+    width: 300px;
+}
